@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/eugenrusu/Projects/c_training/rec_1.4'
+relocations:     []
+...
